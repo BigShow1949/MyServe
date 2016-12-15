@@ -1,0 +1,19 @@
+
+[
+{
+ "request" :
+ {
+   "uri" : "/assetApp/assetList",
+   "method" : "post",
+   "headers" : {
+       "content-type" : "application/json",
+       "sessionid": "e566288ba77de98d"
+   }
+
+ },
+ "response" :
+ {
+   "file" : "./assetList_response.json"
+ }
+}
+]

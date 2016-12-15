@@ -1,0 +1,18 @@
+[
+{
+ "request" :
+ {
+   "uri" : "/assetApp/login",
+   "method" : "get",
+   "queries" :
+     {
+      "username" : "zhangsan",
+      "password" : "123456"
+     }
+ },
+ "response" :
+ {
+   "file" : "./login_response.json"
+ }
+}
+]
